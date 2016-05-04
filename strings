@@ -1,0 +1,1 @@
+ substr(  "ROUTE_NAME" ,1, length(  "ROUTE_NAME" )-1)
